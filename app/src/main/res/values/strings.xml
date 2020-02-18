@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cobamaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="current_city">current city</string>
+    <string name="kirim_lokasi">Kirim Lokasi</string>
+    <string name="lokasi_anda">Lokasi Anda:</string>
+    <string name="update">Apakah Anda Ingin Update Lokasi?</string>
+</resources>
